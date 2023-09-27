@@ -3,7 +3,7 @@ NucleiGPT
 Automated Codification of Vulnerabilities into Nuclei Templates.
 
 <h1 align="center">
-	<img src="https://github.com/nicholasaleks/NucleiGPT/blob/master/img/nucleiGPT-banner.png?raw=true" alt="NucleiGPT"/>
+	<img src="https://github.com/nicholasaleks/NucleiGPT/blob/master/imgs/nucleiGPT-banner.png?raw=true" alt="NucleiGPT"/>
 	<br>
 </h1>
 
