@@ -5,6 +5,14 @@ name = "pypi"
 
 [packages]
 django = "*"
+python-dotenv = "*"
+pypdf2 = "*"
+streamlit = "*"
+langchain = "*"
+openai = "*"
+streamlit-extras = "*"
+tiktoken = "*"
+faiss-cpu = "*"
 
 [dev-packages]
 

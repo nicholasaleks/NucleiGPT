@@ -1,0 +1,62 @@
+/* Custom Styles */
+
+/* Change the primary color to red */
+:root {
+    --primary: #ff0000;
+}
+
+/* Navbar Styles */
+.navbar {
+    background-color: var(--primary);
+    border-bottom: 2px solid #e90808
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+    color: #fff;
+}
+
+.active {
+    color: #e90808 !important;
+}
+
+.navbar .nav-link:hover {
+    color: #ffffff;
+}
+
+/* Content Styles */
+.container {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Button Styles */
+.btn-primary {
+    background-color: var(--primary);
+    border-color: var(--primary);
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+    background-color: #e60000;
+    border-color: #e60000;
+}
+
+/* Form Styles */
+.form-group label {
+    color: var(--primary);
+}
+
+/* Footer Styles (if you add a footer) */
+footer {
+    background-color: var(--primary);
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
